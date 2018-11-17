@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../images/doodles.png");
+    text-align: center;
+}
+
+.container {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-family: monospace;
+    padding: 20px;
+}
+
+h4 {
+    letter-spacing: 2px;
+}
+
+.question {
+    padding-top: 20px;
+    color: darkblue;
+}
+
+.choice {
+    margin: 15px;
+}
+
+.start {
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.submit {
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+}
